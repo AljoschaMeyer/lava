@@ -1,6 +1,6 @@
 # Lava
 
-A specification and protocol for representing and transmitting values that will chang over time in an untrusted decentralized setting. This document presumes that the reader is familiar with the contents of the [magma specification](https://github.com/AljoschaMeyer/magma).
+A specification and protocol for representing and transmitting values that will change over time in an untrusted decentralized setting. This document presumes that the reader is familiar with the contents of the [magma specification](https://github.com/AljoschaMeyer/magma).
 
 **Status: work in progress. Still sorting out the ideas. The write-up does not yet contain sufficient context for motivating all the design choices.**
 
